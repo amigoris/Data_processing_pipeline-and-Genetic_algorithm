@@ -39,5 +39,3 @@
 
 - **Genetic_algorithm.ipynb**  
   Jupyter Notebook с реализацией генетического алгоритма для обучения ансамбля нейросетей, управляющих задачей CartPole из OpenAI Gym.
-
----
